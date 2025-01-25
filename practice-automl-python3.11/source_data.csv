@@ -1,0 +1,1001 @@
+ID,Age,Income,Gender,Education_Level,Marital_Status,Loan_Amount,Credit_Score,Purchased
+1,56,125186,Male,PhD,Single,23793,370,0
+2,69,54674,Female,PhD,Married,13199,663,1
+3,46,55854,Male,High School,Married,15717,575,0
+4,32,66271,Female,High School,Married,41191,349,1
+5,60,93688,Female,Bachelor's,Divorced,15211,657,1
+6,25,58518,Female,High School,Single,28360,784,1
+7,38,131076,Female,PhD,Divorced,26542,383,1
+8,56,30267,Male,Bachelor's,Married,36312,595,1
+9,36,110825,Male,Bachelor's,Divorced,41435,535,0
+10,40,21062,Male,Bachelor's,Single,33247,355,1
+11,28,136664,Male,PhD,Single,27357,659,0
+12,28,70448,Female,Master's,Married,46045,409,0
+13,41,115462,Female,PhD,Married,32691,491,0
+14,53,26229,Male,High School,Divorced,17424,392,1
+15,57,76793,Female,High School,Married,23852,359,1
+16,41,134813,Female,PhD,Married,27601,338,1
+17,20,67915,Female,PhD,Single,23020,839,1
+18,39,24632,Male,Bachelor's,Married,13155,348,0
+19,19,124592,Male,PhD,Married,8583,719,0
+20,41,23596,Male,Bachelor's,Single,20515,312,1
+21,61,129779,Female,High School,Single,41777,335,1
+22,47,26168,Male,Bachelor's,Divorced,24710,400,1
+23,55,128099,Male,PhD,Married,48178,385,0
+24,19,27561,Male,High School,Single,29532,815,1
+25,38,93794,Male,Master's,Divorced,23601,522,1
+26,50,102152,Male,Bachelor's,Divorced,9967,637,0
+27,29,145036,Male,High School,Married,23753,465,1
+28,39,144049,Female,Bachelor's,Married,25022,682,1
+29,61,46734,Female,High School,Divorced,48463,675,1
+30,42,26371,Male,High School,Single,14135,770,0
+31,66,138894,Male,Bachelor's,Divorced,10722,330,1
+32,44,46069,Female,Master's,Married,32413,674,0
+33,59,99905,Female,High School,Single,32236,310,0
+34,45,32910,Male,High School,Single,20514,601,1
+35,33,93479,Male,High School,Divorced,48896,395,1
+36,32,97735,Male,Master's,Married,42212,489,0
+37,64,101264,Male,Master's,Divorced,45386,752,1
+38,68,43275,Female,PhD,Divorced,25331,491,1
+39,61,92274,Male,Bachelor's,Divorced,23060,785,1
+40,69,101449,Male,Master's,Single,6196,565,1
+41,20,120776,Male,Bachelor's,Single,17297,723,1
+42,54,80004,Male,PhD,Married,7787,427,1
+43,68,82981,Female,Bachelor's,Married,28816,537,0
+44,24,104659,Female,Master's,Divorced,45695,654,0
+45,38,74553,Female,Bachelor's,Divorced,24702,411,1
+46,26,68447,Male,Master's,Divorced,30242,745,1
+47,56,54529,Male,Bachelor's,Married,7176,642,1
+48,35,146394,Female,Master's,Single,25127,444,0
+49,21,95703,Male,Master's,Single,46560,364,0
+50,42,96090,Male,Bachelor's,Divorced,32228,546,1
+51,31,37260,Female,PhD,Divorced,25208,789,0
+52,67,132581,Female,High School,Divorced,33482,738,1
+53,26,23812,Female,PhD,Divorced,14171,405,0
+54,43,48024,Female,Bachelor's,Married,40219,480,1
+55,19,78656,Male,PhD,Single,38396,483,1
+56,37,136148,Male,Master's,Divorced,47589,525,0
+57,45,47285,Female,High School,Married,45546,388,1
+58,64,112436,Male,Bachelor's,Divorced,8696,829,0
+59,24,136421,Female,Bachelor's,Divorced,25058,670,1
+60,61,21605,Female,Bachelor's,Single,25313,698,1
+61,25,91158,Male,High School,Divorced,24149,405,1
+62,64,92303,Female,Master's,Single,46075,570,1
+63,52,47139,Male,Bachelor's,Single,9956,802,1
+64,31,97149,Male,PhD,Single,15195,824,0
+65,34,76138,Male,Bachelor's,Married,22076,331,0
+66,53,138205,Male,Bachelor's,Married,6105,692,1
+67,67,96125,Female,Bachelor's,Single,20417,339,1
+68,57,33918,Male,Bachelor's,Divorced,29729,517,1
+69,21,105655,Female,Master's,Single,35099,381,1
+70,19,47446,Female,PhD,Divorced,37598,500,1
+71,23,144040,Female,Master's,Single,34961,746,1
+72,59,33046,Female,PhD,Divorced,17602,727,1
+73,21,149922,Male,Bachelor's,Married,14256,337,1
+74,46,44818,Male,High School,Divorced,25584,510,1
+75,35,120894,Female,Master's,Single,39681,743,0
+76,43,135751,Female,High School,Married,30792,626,0
+77,61,24324,Male,Master's,Divorced,26904,526,0
+78,51,96323,Female,Bachelor's,Divorced,48361,347,0
+79,27,29111,Male,Master's,Divorced,39540,317,0
+80,53,58110,Female,Bachelor's,Divorced,31536,738,1
+81,31,36389,Male,Master's,Divorced,24164,486,1
+82,48,142177,Female,Bachelor's,Married,17996,644,1
+83,65,61427,Female,Bachelor's,Married,7871,523,1
+84,32,99579,Male,PhD,Married,27626,787,0
+85,25,48746,Female,Bachelor's,Married,15521,528,0
+86,31,142883,Female,PhD,Single,48410,689,0
+87,40,107886,Male,Bachelor's,Married,6132,487,1
+88,57,127141,Female,High School,Divorced,38467,569,0
+89,38,20117,Male,Bachelor's,Divorced,19534,609,0
+90,33,145808,Male,High School,Married,28854,431,1
+91,62,132221,Female,High School,Divorced,47998,371,1
+92,35,104471,Female,Bachelor's,Married,44065,486,0
+93,64,132613,Female,High School,Divorced,12812,785,1
+94,41,33234,Female,PhD,Single,9557,490,1
+95,43,149597,Female,Master's,Single,7179,721,1
+96,42,123864,Female,Bachelor's,Married,48798,419,1
+97,62,73441,Female,High School,Married,14065,519,0
+98,58,20846,Male,Bachelor's,Married,13275,352,0
+99,46,30954,Female,PhD,Divorced,40948,750,1
+100,32,99239,Male,Bachelor's,Married,25700,711,1
+101,62,133689,Female,Bachelor's,Single,44464,536,1
+102,18,66514,Female,High School,Divorced,47351,705,1
+103,42,108236,Male,PhD,Married,32794,721,1
+104,24,117579,Female,Master's,Divorced,33783,546,1
+105,26,148644,Female,Master's,Divorced,21998,371,1
+106,41,26469,Male,High School,Married,18869,484,1
+107,18,50105,Female,Bachelor's,Divorced,49525,305,0
+108,61,62101,Female,High School,Single,33152,505,1
+109,25,84323,Female,High School,Single,25954,843,0
+110,41,111922,Male,High School,Divorced,36555,686,0
+111,28,78067,Female,Bachelor's,Married,21654,375,1
+112,68,69376,Female,PhD,Divorced,40236,476,0
+113,34,65587,Female,High School,Single,20042,648,0
+114,25,56976,Female,Bachelor's,Divorced,30966,554,0
+115,52,124587,Male,PhD,Divorced,49314,607,1
+116,52,147534,Male,High School,Single,19270,644,1
+117,50,87584,Female,Master's,Divorced,35908,426,1
+118,22,124537,Female,PhD,Divorced,20523,586,0
+119,59,98477,Male,High School,Married,24991,786,1
+120,56,130911,Male,PhD,Married,15775,682,1
+121,58,62533,Female,PhD,Single,17265,705,0
+122,45,21828,Male,PhD,Single,24459,687,1
+123,24,21917,Female,PhD,Single,21673,824,0
+124,26,40618,Male,PhD,Married,32056,575,1
+125,25,52254,Male,PhD,Single,11614,799,1
+126,29,125292,Male,High School,Single,41020,636,1
+127,51,136714,Male,Master's,Single,12415,780,0
+128,50,67362,Female,Bachelor's,Married,28155,572,1
+129,65,40128,Male,PhD,Divorced,48884,357,1
+130,40,143781,Male,Bachelor's,Single,21964,627,1
+131,41,131281,Female,High School,Divorced,42726,408,1
+132,54,79383,Male,PhD,Single,42044,578,0
+133,52,85545,Male,Master's,Divorced,42544,627,0
+134,61,102180,Female,Bachelor's,Married,37252,614,1
+135,57,107958,Male,PhD,Married,8832,773,1
+136,39,29865,Female,High School,Single,30275,410,1
+137,44,22219,Female,Master's,Divorced,19901,528,0
+138,52,59809,Female,Bachelor's,Married,43213,796,1
+139,18,136748,Female,Bachelor's,Single,39148,455,0
+140,52,25287,Male,PhD,Single,47633,772,1
+141,54,146593,Female,Master's,Married,27918,571,1
+142,64,54387,Male,Master's,Married,24540,301,1
+143,31,28512,Male,Master's,Single,16580,810,0
+144,20,21342,Male,Master's,Divorced,43402,585,1
+145,18,83076,Male,High School,Divorced,43578,312,0
+146,22,128872,Male,Master's,Divorced,29917,797,0
+147,43,39216,Male,Bachelor's,Single,27318,537,1
+148,31,137512,Male,Bachelor's,Married,15179,393,1
+149,56,136682,Male,High School,Single,17251,637,0
+150,44,113070,Male,Bachelor's,Married,24493,470,1
+151,26,99767,Male,Bachelor's,Divorced,25466,766,1
+152,32,117829,Female,Master's,Divorced,35206,442,1
+153,32,46614,Female,Bachelor's,Married,24624,500,0
+154,43,56258,Female,High School,Married,31564,479,1
+155,59,113789,Male,Master's,Single,27412,663,0
+156,30,62078,Female,PhD,Divorced,32990,778,0
+157,68,126288,Female,Master's,Single,40517,770,0
+158,49,103524,Female,High School,Single,18156,683,1
+159,56,116573,Male,Master's,Single,28064,716,0
+160,66,32219,Male,Master's,Divorced,30711,607,0
+161,69,20235,Male,High School,Single,35106,666,0
+162,49,62929,Male,Master's,Single,21589,300,1
+163,21,147309,Female,High School,Single,28736,343,1
+164,47,87444,Female,High School,Single,25975,397,0
+165,54,28567,Female,PhD,Single,41218,564,1
+166,40,121834,Female,Bachelor's,Single,12214,439,1
+167,56,90792,Male,Bachelor's,Divorced,35581,780,1
+168,62,85441,Male,Master's,Single,25195,536,0
+169,32,104555,Male,Master's,Married,49582,371,1
+170,60,93698,Female,PhD,Single,32127,489,1
+171,46,144450,Male,PhD,Single,10141,567,1
+172,53,137248,Male,PhD,Divorced,33884,620,0
+173,30,25415,Female,High School,Divorced,29885,406,1
+174,49,56159,Female,PhD,Married,7708,531,1
+175,24,63925,Male,PhD,Married,23375,341,1
+176,68,146523,Male,Master's,Divorced,20088,438,0
+177,39,25951,Male,PhD,Divorced,49602,572,0
+178,45,107388,Male,High School,Single,15014,780,1
+179,19,28007,Male,High School,Divorced,8273,715,1
+180,59,146730,Male,Master's,Married,42306,805,0
+181,62,61832,Female,PhD,Single,35881,723,1
+182,23,78596,Female,PhD,Married,36486,706,0
+183,45,141101,Female,High School,Single,17541,689,1
+184,45,50523,Male,PhD,Divorced,13712,641,1
+185,61,108861,Female,PhD,Married,14168,792,1
+186,61,144194,Male,PhD,Single,8551,491,1
+187,37,106740,Male,Bachelor's,Single,17297,798,0
+188,47,35524,Female,Master's,Divorced,48733,532,1
+189,28,149028,Male,Bachelor's,Divorced,32128,526,0
+190,45,39282,Male,Master's,Divorced,7832,670,1
+191,42,43930,Female,High School,Married,33483,438,1
+192,56,20077,Female,PhD,Single,27063,448,1
+193,50,125881,Female,Master's,Divorced,27963,414,0
+194,18,145501,Male,Bachelor's,Married,18422,749,1
+195,44,40611,Female,PhD,Married,37920,362,0
+196,69,36984,Female,High School,Married,16156,403,0
+197,30,34060,Male,Master's,Divorced,16108,572,1
+198,58,102985,Female,Master's,Divorced,36845,305,1
+199,20,104056,Female,Master's,Single,7800,446,1
+200,56,145329,Female,PhD,Single,43078,483,0
+201,23,63303,Male,Bachelor's,Divorced,47712,327,0
+202,25,79207,Male,Bachelor's,Married,7610,849,1
+203,44,95046,Male,Master's,Married,17067,418,1
+204,26,49287,Male,High School,Married,38872,592,0
+205,54,113709,Female,High School,Single,15728,670,1
+206,50,59711,Male,Bachelor's,Married,34566,543,1
+207,68,31954,Male,High School,Single,34783,517,1
+208,59,93340,Female,Bachelor's,Single,25583,476,1
+209,61,92101,Female,Master's,Married,25238,598,1
+210,41,91520,Female,Bachelor's,Married,12263,357,1
+211,32,107062,Male,Bachelor's,Divorced,6914,568,1
+212,49,122974,Male,Master's,Divorced,28749,607,0
+213,49,38574,Male,High School,Married,24456,587,1
+214,41,29184,Female,Bachelor's,Single,30582,404,1
+215,58,39096,Female,Bachelor's,Single,5406,527,1
+216,69,87728,Male,Master's,Single,18689,546,0
+217,66,54016,Female,High School,Single,37934,793,1
+218,66,31246,Female,Bachelor's,Single,38276,382,1
+219,69,65558,Female,Master's,Divorced,41432,485,0
+220,29,138721,Male,Bachelor's,Married,24873,551,1
+221,56,38381,Female,PhD,Divorced,18050,654,1
+222,19,147796,Female,Master's,Single,5680,509,0
+223,20,56455,Male,High School,Single,23908,746,1
+224,66,112263,Male,High School,Single,23504,759,1
+225,54,24018,Female,High School,Single,26644,771,1
+226,66,31302,Female,High School,Married,42125,669,0
+227,34,87506,Male,Bachelor's,Single,6363,791,0
+228,66,61157,Male,Bachelor's,Married,47291,436,1
+229,19,74917,Female,High School,Single,40060,666,0
+230,19,112738,Female,High School,Married,6538,483,1
+231,45,116646,Female,High School,Divorced,41176,586,0
+232,40,103122,Female,Bachelor's,Single,46520,771,0
+233,54,44519,Male,High School,Married,30675,674,0
+234,49,116809,Female,High School,Divorced,23287,836,1
+235,50,107487,Female,PhD,Single,5174,810,1
+236,18,76819,Male,PhD,Single,31732,549,0
+237,36,100910,Female,High School,Single,39998,809,0
+238,19,140430,Male,Master's,Married,42055,372,0
+239,61,91324,Female,High School,Married,17112,581,1
+240,43,25408,Female,PhD,Divorced,44874,659,1
+241,49,79379,Male,Master's,Married,14689,309,1
+242,23,45053,Male,Master's,Married,49814,510,1
+243,49,29446,Female,High School,Single,24555,451,1
+244,21,20922,Female,PhD,Single,38919,304,0
+245,28,118723,Female,PhD,Single,12619,494,1
+246,34,71356,Male,Master's,Single,11033,582,0
+247,55,30789,Female,High School,Single,46328,763,0
+248,41,117720,Male,Bachelor's,Single,9946,412,1
+249,22,86656,Male,Bachelor's,Single,29618,570,1
+250,69,64028,Female,PhD,Divorced,39675,462,1
+251,51,84484,Male,Bachelor's,Divorced,41258,759,1
+252,23,52154,Female,PhD,Divorced,23919,404,1
+253,39,102870,Female,PhD,Divorced,9173,581,0
+254,28,22336,Female,PhD,Single,48833,461,1
+255,65,123677,Female,Bachelor's,Divorced,31400,650,1
+256,33,87779,Female,PhD,Single,9769,733,1
+257,50,39029,Male,Master's,Divorced,42564,439,1
+258,26,79201,Male,High School,Married,19211,770,0
+259,23,52265,Female,High School,Divorced,28255,431,1
+260,33,122916,Female,PhD,Divorced,32962,386,1
+261,46,132250,Male,High School,Single,24356,482,0
+262,20,136553,Male,Bachelor's,Divorced,25306,667,1
+263,37,63872,Male,Bachelor's,Married,9997,428,1
+264,53,66197,Male,High School,Single,22376,545,1
+265,36,145733,Female,Bachelor's,Single,45880,677,1
+266,43,75180,Female,High School,Divorced,43055,448,0
+267,20,43710,Male,High School,Single,15578,732,0
+268,36,49486,Female,High School,Single,23624,768,0
+269,37,91907,Male,PhD,Single,44194,745,1
+270,49,148876,Female,High School,Single,49367,780,0
+271,24,91895,Male,PhD,Single,5389,593,0
+272,69,84435,Female,High School,Single,38767,442,1
+273,58,60631,Male,High School,Married,6855,549,1
+274,50,149038,Male,High School,Divorced,45893,601,1
+275,57,121532,Female,Bachelor's,Married,18794,324,0
+276,56,40103,Male,PhD,Single,40531,369,0
+277,35,84772,Female,PhD,Single,9986,411,0
+278,57,146108,Female,High School,Divorced,37298,663,1
+279,18,34382,Male,High School,Married,6481,602,1
+280,28,104291,Female,Bachelor's,Divorced,8731,770,1
+281,45,121195,Female,Bachelor's,Married,21835,390,0
+282,42,23756,Female,Bachelor's,Single,32798,829,1
+283,67,40609,Female,PhD,Divorced,31113,491,0
+284,40,134074,Female,PhD,Divorced,24477,541,0
+285,48,36478,Male,PhD,Single,22266,437,1
+286,47,120978,Female,High School,Divorced,25792,644,1
+287,59,59666,Female,PhD,Married,25452,479,0
+288,52,95683,Female,Master's,Married,48526,802,0
+289,24,119097,Female,Master's,Married,46334,502,1
+290,33,144714,Female,Bachelor's,Married,16889,491,0
+291,43,120420,Male,PhD,Single,29335,304,0
+292,65,91315,Female,Master's,Divorced,16254,536,0
+293,69,97834,Male,Bachelor's,Married,26074,610,0
+294,66,146205,Male,PhD,Single,16442,848,0
+295,19,34153,Male,High School,Divorced,42327,355,1
+296,18,129415,Male,Master's,Divorced,21199,742,0
+297,65,96325,Female,High School,Single,12291,536,1
+298,29,129701,Male,PhD,Single,45928,496,1
+299,22,32999,Male,Master's,Married,5112,813,1
+300,54,75318,Female,PhD,Divorced,26515,748,1
+301,49,20814,Female,High School,Divorced,24581,659,1
+302,26,135033,Female,Master's,Single,31500,329,0
+303,58,96077,Male,High School,Divorced,37026,407,1
+304,52,110474,Female,PhD,Married,21523,744,1
+305,36,22443,Female,PhD,Divorced,6424,737,1
+306,65,95993,Male,High School,Single,24552,756,1
+307,33,95916,Female,Master's,Single,15808,794,1
+308,20,93319,Female,High School,Married,43811,546,1
+309,37,145885,Female,PhD,Married,11989,842,0
+310,41,129777,Female,High School,Divorced,28620,738,1
+311,50,37368,Male,PhD,Divorced,44029,577,1
+312,41,35328,Female,High School,Single,5887,410,1
+313,69,76942,Female,Master's,Married,36802,684,0
+314,28,111751,Male,Master's,Married,24488,490,1
+315,66,119131,Female,High School,Married,35013,789,0
+316,25,47306,Male,High School,Divorced,21402,725,0
+317,53,105451,Female,Master's,Married,26205,704,1
+318,55,59915,Male,PhD,Single,31049,634,0
+319,57,57219,Male,Master's,Single,17253,508,1
+320,37,100879,Male,PhD,Divorced,23990,321,0
+321,52,131939,Male,High School,Divorced,12846,507,1
+322,65,84644,Female,High School,Married,30027,307,0
+323,42,80279,Male,PhD,Divorced,44200,828,0
+324,52,73028,Female,High School,Single,8765,465,0
+325,42,124263,Male,PhD,Married,20950,795,0
+326,46,20126,Male,Bachelor's,Single,14741,728,0
+327,35,72329,Male,Master's,Married,27742,462,0
+328,63,47632,Female,Bachelor's,Divorced,29703,665,1
+329,35,127099,Male,PhD,Married,43709,825,0
+330,19,85310,Female,Master's,Married,42623,538,1
+331,52,129945,Female,PhD,Single,27931,371,0
+332,33,75176,Female,Master's,Single,28580,744,1
+333,58,139797,Female,Master's,Married,20166,808,1
+334,53,106066,Female,Master's,Divorced,34240,568,1
+335,50,125500,Female,Master's,Divorced,30991,714,0
+336,21,146413,Female,PhD,Single,43556,544,0
+337,50,64327,Female,Master's,Divorced,37969,359,1
+338,31,88904,Female,Master's,Single,15561,305,0
+339,38,23797,Male,Bachelor's,Divorced,21901,706,0
+340,65,67882,Male,High School,Married,45505,516,0
+341,37,33718,Male,High School,Single,35020,325,0
+342,25,54560,Male,Bachelor's,Single,30917,304,0
+343,24,96589,Male,Bachelor's,Married,6988,831,1
+344,20,42116,Female,PhD,Single,49505,689,0
+345,34,56244,Female,PhD,Divorced,19256,747,1
+346,50,121721,Female,PhD,Divorced,27192,445,0
+347,65,21645,Female,Bachelor's,Single,33230,687,0
+348,29,67523,Female,Bachelor's,Divorced,44930,548,1
+349,68,144085,Female,Master's,Single,27625,825,0
+350,39,137718,Female,PhD,Married,37088,761,1
+351,39,39256,Male,PhD,Single,19114,312,1
+352,63,121376,Male,PhD,Married,46167,683,0
+353,47,120158,Male,High School,Divorced,43401,698,1
+354,55,73173,Male,Master's,Married,10755,318,0
+355,55,57430,Female,PhD,Divorced,15825,790,1
+356,62,59282,Female,PhD,Single,27693,718,0
+357,68,139719,Female,PhD,Divorced,9117,636,1
+358,25,83374,Male,High School,Single,29729,718,0
+359,44,88244,Female,High School,Single,37182,421,1
+360,44,31694,Female,Bachelor's,Married,33890,731,1
+361,51,76264,Female,Master's,Married,34340,343,1
+362,38,95060,Male,Bachelor's,Married,6518,616,1
+363,47,117416,Female,Master's,Married,35949,680,1
+364,50,77545,Male,High School,Divorced,27547,444,1
+365,45,138195,Male,PhD,Divorced,21346,626,0
+366,64,59224,Male,Bachelor's,Divorced,7600,662,0
+367,50,122516,Male,PhD,Single,34267,349,0
+368,22,117945,Female,Bachelor's,Divorced,41322,364,0
+369,65,33224,Male,High School,Divorced,31990,654,0
+370,36,60738,Male,High School,Divorced,21193,463,1
+371,21,45150,Female,High School,Married,35109,440,0
+372,52,83731,Female,Bachelor's,Divorced,24233,427,1
+373,66,69688,Male,Master's,Single,21194,697,0
+374,34,119929,Female,Bachelor's,Married,39510,762,0
+375,61,128618,Male,Master's,Single,6306,486,1
+376,45,93509,Male,Bachelor's,Divorced,8849,489,1
+377,47,28577,Male,Bachelor's,Married,17360,687,1
+378,46,28070,Male,High School,Single,34231,728,1
+379,63,146161,Female,PhD,Divorced,41963,583,0
+380,23,28666,Male,PhD,Single,23689,536,1
+381,52,77761,Female,Master's,Single,34084,493,0
+382,58,141178,Female,PhD,Single,45387,586,0
+383,54,56368,Female,Bachelor's,Divorced,14280,435,1
+384,41,26783,Female,Bachelor's,Divorced,7642,470,0
+385,46,131530,Male,High School,Single,47137,458,0
+386,66,61914,Female,High School,Married,19296,500,1
+387,63,90507,Male,PhD,Married,20438,786,1
+388,48,147738,Female,Master's,Divorced,42525,803,0
+389,52,99026,Female,PhD,Divorced,7994,670,0
+390,50,135893,Male,PhD,Divorced,39039,402,0
+391,69,131255,Male,PhD,Divorced,6813,424,0
+392,38,130616,Male,PhD,Divorced,32491,612,1
+393,49,87526,Female,Bachelor's,Married,23845,757,0
+394,40,90835,Female,Master's,Divorced,46243,529,1
+395,50,65765,Male,Bachelor's,Single,42164,496,0
+396,20,39956,Male,Master's,Single,47051,722,1
+397,35,107895,Male,High School,Married,18318,470,0
+398,42,66240,Male,PhD,Single,22200,681,1
+399,59,141008,Female,Bachelor's,Married,5082,472,0
+400,48,57148,Male,Master's,Married,6920,752,1
+401,20,114270,Male,High School,Single,45585,649,0
+402,57,147978,Male,High School,Divorced,16683,793,0
+403,63,24757,Male,PhD,Single,16336,303,1
+404,41,39097,Female,Master's,Single,20596,392,1
+405,67,30395,Male,Bachelor's,Married,7093,305,1
+406,49,36241,Female,PhD,Single,17905,587,1
+407,64,123892,Male,Bachelor's,Married,29351,445,1
+408,39,47696,Male,High School,Divorced,35981,723,0
+409,40,135654,Female,Bachelor's,Divorced,13367,756,0
+410,19,90480,Male,Bachelor's,Divorced,10285,501,0
+411,44,66163,Female,PhD,Single,48664,511,1
+412,59,39816,Female,Bachelor's,Married,42705,305,0
+413,19,69840,Male,PhD,Divorced,21753,675,0
+414,43,122547,Female,High School,Married,23485,746,1
+415,34,72853,Female,PhD,Married,17977,405,1
+416,57,44917,Female,PhD,Divorced,24874,700,0
+417,50,116731,Female,Master's,Divorced,12674,395,0
+418,26,41566,Female,Bachelor's,Married,34038,687,0
+419,60,95452,Female,High School,Divorced,34315,751,0
+420,65,82823,Female,PhD,Married,8676,715,0
+421,56,141392,Female,High School,Married,7426,803,1
+422,46,40806,Male,Master's,Divorced,29473,753,1
+423,59,95520,Male,Bachelor's,Single,7962,590,1
+424,43,21759,Female,PhD,Divorced,34943,833,0
+425,52,146092,Male,Bachelor's,Single,5859,492,1
+426,67,61949,Female,Master's,Married,49816,449,0
+427,42,112374,Female,Master's,Married,9138,814,1
+428,41,22482,Male,High School,Single,40192,692,1
+429,30,44442,Female,PhD,Married,30640,615,0
+430,24,53719,Female,High School,Single,15409,375,0
+431,53,78066,Female,Master's,Single,9017,569,1
+432,62,113501,Female,Bachelor's,Married,15451,524,0
+433,37,22079,Male,High School,Single,33327,829,1
+434,18,22717,Female,High School,Divorced,15278,412,0
+435,25,79676,Female,Bachelor's,Divorced,29944,550,1
+436,63,47952,Female,High School,Married,48764,532,0
+437,33,106444,Male,Bachelor's,Married,6134,382,0
+438,31,62460,Female,PhD,Single,35131,424,1
+439,29,110397,Male,Bachelor's,Single,42887,474,0
+440,68,92847,Male,PhD,Single,43462,368,0
+441,40,113607,Female,Bachelor's,Single,27520,346,0
+442,32,109106,Female,Master's,Divorced,26869,555,0
+443,45,38449,Male,Master's,Divorced,41932,329,0
+444,51,53536,Female,PhD,Married,10039,580,0
+445,19,84077,Male,PhD,Single,26281,536,1
+446,49,58258,Male,Master's,Single,15442,547,0
+447,40,68302,Female,PhD,Married,13252,667,1
+448,39,145937,Female,Bachelor's,Single,32586,794,0
+449,68,48865,Male,Bachelor's,Single,22568,324,0
+450,42,26645,Male,Master's,Single,25810,789,1
+451,39,139771,Male,High School,Single,6551,793,0
+452,39,58000,Male,Bachelor's,Single,17625,613,1
+453,66,46737,Female,PhD,Married,39397,674,0
+454,69,31485,Female,High School,Single,31249,324,1
+455,59,58565,Female,High School,Married,6361,633,1
+456,23,45522,Female,Bachelor's,Single,31149,654,1
+457,32,139614,Female,Bachelor's,Divorced,9370,415,1
+458,60,85155,Male,High School,Divorced,10283,347,1
+459,54,75168,Female,High School,Divorced,12610,398,0
+460,50,72487,Female,Master's,Divorced,48326,758,0
+461,25,149948,Female,PhD,Married,19924,822,1
+462,61,32342,Female,Master's,Married,49717,704,0
+463,61,60806,Female,Bachelor's,Single,15626,513,0
+464,22,68770,Male,Master's,Divorced,39761,802,1
+465,56,98623,Male,Master's,Married,5869,747,0
+466,21,123177,Male,Master's,Single,36552,557,1
+467,23,119785,Female,Master's,Single,6014,420,1
+468,62,95629,Male,PhD,Married,15103,353,1
+469,49,140993,Male,PhD,Divorced,21986,630,1
+470,69,72603,Female,High School,Single,49781,540,0
+471,47,146944,Female,Bachelor's,Divorced,35471,829,0
+472,64,132726,Female,Master's,Divorced,38458,782,1
+473,52,101974,Male,High School,Divorced,30069,486,0
+474,57,125947,Male,High School,Single,21873,561,1
+475,69,46399,Female,High School,Divorced,28248,663,1
+476,33,148177,Female,PhD,Single,28624,790,1
+477,30,105382,Male,Master's,Divorced,48516,730,0
+478,67,101244,Male,Master's,Single,34061,538,1
+479,59,129575,Female,Bachelor's,Divorced,29170,603,1
+480,47,135520,Female,Master's,Married,13024,597,1
+481,36,130904,Male,Master's,Divorced,21678,375,0
+482,34,96534,Female,High School,Divorced,43256,632,1
+483,36,75106,Male,Bachelor's,Single,25411,773,1
+484,45,132599,Male,Master's,Single,48803,582,1
+485,43,50678,Male,PhD,Divorced,24296,371,1
+486,54,96218,Male,Master's,Married,31293,562,0
+487,43,83230,Female,High School,Married,32172,311,1
+488,40,134684,Female,PhD,Single,26128,440,1
+489,26,94055,Male,High School,Married,23257,316,0
+490,29,76373,Male,Master's,Divorced,17855,362,1
+491,18,51480,Male,PhD,Single,24642,552,1
+492,18,105230,Male,Bachelor's,Divorced,40585,764,1
+493,64,88836,Male,Bachelor's,Single,25025,675,1
+494,51,92258,Female,PhD,Single,9458,819,1
+495,49,59986,Female,PhD,Single,10307,389,1
+496,65,44160,Female,High School,Single,46701,474,0
+497,42,105595,Female,PhD,Married,23425,375,0
+498,57,121358,Male,High School,Divorced,48427,699,1
+499,62,99111,Male,Master's,Divorced,33273,370,1
+500,18,84929,Male,High School,Divorced,43506,479,1
+501,33,93506,Male,PhD,Single,10668,423,1
+502,56,54911,Male,PhD,Married,30934,680,0
+503,22,107127,Female,Master's,Divorced,12697,592,1
+504,39,51821,Male,PhD,Married,29417,494,0
+505,46,95039,Female,PhD,Single,21446,527,1
+506,20,80535,Female,Bachelor's,Divorced,45597,730,1
+507,29,133453,Female,Bachelor's,Married,15751,735,0
+508,43,104458,Female,Master's,Single,12352,760,0
+509,33,32175,Male,High School,Married,18516,320,1
+510,68,139235,Female,Bachelor's,Divorced,28299,363,1
+511,54,74771,Female,High School,Divorced,36957,464,0
+512,39,126660,Female,PhD,Single,33927,326,1
+513,46,147157,Male,Bachelor's,Single,46094,610,1
+514,31,141300,Male,Master's,Single,41412,584,1
+515,45,106925,Male,Master's,Married,34493,580,1
+516,22,133374,Female,Master's,Married,31711,463,1
+517,64,86358,Female,Bachelor's,Married,13003,523,1
+518,66,37327,Male,High School,Single,36707,445,1
+519,47,67057,Female,PhD,Divorced,8278,329,1
+520,63,26150,Male,High School,Divorced,12296,344,0
+521,69,24425,Male,High School,Married,30398,770,1
+522,22,143654,Female,PhD,Married,40842,333,0
+523,29,36032,Female,PhD,Divorced,18261,726,0
+524,33,22198,Female,Bachelor's,Divorced,16173,520,0
+525,43,80500,Female,Bachelor's,Married,35449,833,0
+526,43,73394,Male,Bachelor's,Married,46080,666,1
+527,65,40079,Male,Bachelor's,Divorced,6637,849,0
+528,38,56220,Male,Bachelor's,Single,36781,415,1
+529,56,61874,Male,PhD,Married,18652,538,1
+530,53,33859,Male,High School,Divorced,10103,634,1
+531,50,70460,Female,Bachelor's,Divorced,30500,740,0
+532,47,51419,Male,Bachelor's,Divorced,39800,447,1
+533,54,138865,Male,High School,Divorced,40529,308,1
+534,40,28705,Male,Bachelor's,Single,23452,587,1
+535,27,62880,Female,High School,Divorced,36174,687,1
+536,22,149838,Female,High School,Married,40436,349,1
+537,53,43236,Female,PhD,Single,20954,816,1
+538,51,107955,Female,Master's,Divorced,22186,577,0
+539,69,105514,Male,PhD,Single,17356,599,1
+540,48,123145,Male,Master's,Married,37963,434,0
+541,27,35358,Female,Master's,Divorced,7187,446,1
+542,36,119713,Female,Master's,Married,16707,789,0
+543,49,114914,Male,Bachelor's,Divorced,40098,777,0
+544,18,122870,Male,PhD,Divorced,31935,458,1
+545,22,96918,Female,Master's,Divorced,26225,683,1
+546,62,139179,Female,High School,Divorced,8606,462,0
+547,21,136243,Female,Bachelor's,Divorced,37828,740,1
+548,33,34596,Female,PhD,Single,31489,488,1
+549,41,53572,Male,Master's,Divorced,19387,714,0
+550,33,98757,Male,High School,Divorced,8927,638,1
+551,19,21279,Male,PhD,Single,11296,480,0
+552,66,83197,Female,PhD,Single,35444,587,1
+553,45,131496,Female,Bachelor's,Single,7591,486,1
+554,49,82516,Male,PhD,Single,49895,437,0
+555,44,27083,Male,Bachelor's,Single,31147,429,1
+556,37,140674,Male,Master's,Single,43889,493,0
+557,41,140307,Male,Bachelor's,Divorced,6200,615,1
+558,29,146457,Female,High School,Divorced,20721,443,1
+559,67,129397,Male,Bachelor's,Married,24238,315,1
+560,52,37771,Male,High School,Divorced,16087,601,0
+561,50,49975,Male,Bachelor's,Divorced,35816,722,0
+562,50,65648,Male,PhD,Single,28408,544,0
+563,68,145641,Male,Master's,Single,44740,406,0
+564,60,68285,Male,High School,Divorced,5136,387,1
+565,54,39063,Male,Bachelor's,Married,22413,428,1
+566,29,87642,Female,Bachelor's,Single,23978,640,1
+567,20,110093,Female,Bachelor's,Divorced,5661,303,1
+568,18,134390,Female,PhD,Divorced,40240,626,1
+569,50,106143,Female,PhD,Married,32253,709,1
+570,57,57599,Male,High School,Married,31884,605,1
+571,27,71920,Female,High School,Single,37854,524,1
+572,60,48529,Female,PhD,Married,15704,647,0
+573,61,55954,Male,High School,Divorced,43987,620,0
+574,46,47856,Male,Master's,Divorced,29527,480,1
+575,30,22573,Female,Master's,Married,21322,685,0
+576,29,98344,Female,PhD,Married,11968,407,0
+577,48,55367,Male,High School,Married,32518,830,1
+578,63,122337,Female,Bachelor's,Married,32886,709,1
+579,19,126732,Male,Master's,Single,6700,595,1
+580,68,119608,Male,PhD,Married,33246,470,0
+581,67,80774,Male,High School,Single,40468,630,0
+582,52,43752,Male,PhD,Divorced,28199,792,1
+583,40,75029,Female,Bachelor's,Married,49589,494,1
+584,34,37685,Male,Master's,Single,37115,311,1
+585,43,71693,Male,PhD,Married,10520,494,1
+586,25,136739,Female,PhD,Divorced,49278,789,1
+587,46,75961,Male,PhD,Divorced,41455,481,1
+588,43,126937,Female,Bachelor's,Divorced,25929,615,0
+589,27,144956,Female,PhD,Married,46605,329,1
+590,43,96908,Female,Bachelor's,Married,19955,395,1
+591,51,145537,Male,Bachelor's,Single,49049,680,1
+592,68,146678,Female,Bachelor's,Divorced,18917,743,1
+593,58,94532,Female,Master's,Married,9757,597,1
+594,24,101994,Male,Master's,Divorced,18045,660,0
+595,21,76133,Female,PhD,Divorced,46680,673,1
+596,67,117425,Female,PhD,Single,9733,602,0
+597,62,145055,Female,Master's,Single,35954,720,1
+598,28,81268,Female,High School,Single,36135,545,0
+599,46,112201,Female,Master's,Single,12081,536,0
+600,53,58243,Male,Bachelor's,Divorced,46458,833,1
+601,42,77384,Female,Master's,Single,28501,484,1
+602,38,51653,Female,Bachelor's,Single,26113,767,1
+603,53,46657,Male,PhD,Single,39441,662,0
+604,27,59952,Male,High School,Single,29690,582,1
+605,54,42180,Male,PhD,Divorced,48939,635,0
+606,26,117432,Female,Bachelor's,Single,34345,461,1
+607,41,141829,Male,Bachelor's,Divorced,49571,459,1
+608,52,148377,Female,Bachelor's,Married,31829,773,1
+609,66,98411,Female,High School,Divorced,40062,621,0
+610,52,21622,Male,Master's,Divorced,8630,311,1
+611,65,68756,Male,PhD,Single,36870,723,0
+612,53,60809,Female,PhD,Married,49942,372,1
+613,35,36725,Male,Master's,Married,8453,500,0
+614,66,81396,Female,PhD,Married,42275,821,1
+615,56,71226,Male,High School,Married,48370,804,0
+616,49,126296,Male,PhD,Divorced,43396,338,1
+617,41,101182,Male,Bachelor's,Married,13328,359,1
+618,40,102565,Female,Master's,Divorced,20534,620,1
+619,49,49402,Male,High School,Divorced,24744,734,0
+620,54,24263,Female,Master's,Divorced,24389,707,1
+621,29,143489,Female,High School,Married,41320,685,1
+622,66,116523,Female,Bachelor's,Single,40010,377,1
+623,30,66828,Female,Master's,Single,19665,493,0
+624,40,140824,Male,PhD,Married,42865,584,1
+625,42,67924,Female,High School,Single,13640,826,1
+626,52,94182,Female,Master's,Single,39716,823,0
+627,58,113065,Male,PhD,Divorced,30521,455,0
+628,47,79052,Female,Master's,Divorced,35049,639,1
+629,34,31664,Male,Master's,Married,10618,424,0
+630,66,55737,Female,Master's,Married,42004,579,0
+631,37,121332,Male,High School,Single,6920,427,1
+632,65,109563,Female,PhD,Divorced,48937,613,1
+633,42,49373,Male,Bachelor's,Married,9188,631,0
+634,39,137369,Female,High School,Married,17207,449,1
+635,30,56397,Female,High School,Married,5238,753,0
+636,36,148575,Male,High School,Married,37972,335,0
+637,66,106145,Male,Bachelor's,Married,15799,719,0
+638,53,121371,Male,PhD,Married,10552,321,1
+639,29,58709,Male,PhD,Single,33916,505,0
+640,58,136074,Female,PhD,Divorced,9927,655,0
+641,36,81120,Female,Master's,Divorced,32964,739,1
+642,29,39250,Male,Master's,Married,16164,395,1
+643,26,41172,Female,Master's,Divorced,42158,463,0
+644,24,31555,Male,Bachelor's,Divorced,24071,447,1
+645,45,107410,Male,Master's,Divorced,11160,829,0
+646,31,98617,Female,Bachelor's,Married,20810,593,1
+647,48,73276,Female,PhD,Married,10126,494,1
+648,69,77492,Female,Master's,Divorced,35009,779,1
+649,36,73002,Female,Master's,Divorced,38584,422,0
+650,64,140103,Female,High School,Married,30396,699,0
+651,33,144938,Female,Bachelor's,Single,5192,751,0
+652,22,109599,Female,PhD,Divorced,41413,403,0
+653,52,92355,Male,High School,Single,17816,761,0
+654,29,111248,Male,High School,Divorced,44082,695,1
+655,42,44762,Male,PhD,Single,37130,636,1
+656,69,31046,Male,High School,Single,45142,441,1
+657,38,116999,Male,Bachelor's,Single,41468,616,1
+658,53,144130,Female,Bachelor's,Married,35698,826,1
+659,40,136021,Male,Master's,Single,15655,700,1
+660,33,48769,Male,High School,Single,35075,609,0
+661,56,73302,Male,Master's,Single,14359,794,1
+662,62,43150,Male,High School,Divorced,41661,408,1
+663,59,88247,Male,Bachelor's,Single,44579,671,1
+664,56,24853,Male,Bachelor's,Divorced,47056,505,1
+665,31,114613,Male,Bachelor's,Single,38272,342,0
+666,48,140900,Female,High School,Single,47581,544,0
+667,22,109399,Female,Bachelor's,Married,19671,586,1
+668,52,41792,Male,High School,Divorced,32048,654,0
+669,40,79129,Female,Master's,Single,15738,775,1
+670,46,126019,Female,High School,Divorced,30963,382,1
+671,60,94478,Female,Master's,Divorced,48954,409,1
+672,28,133811,Female,High School,Married,11773,489,1
+673,35,134130,Male,Master's,Married,41584,550,0
+674,64,87298,Female,Bachelor's,Married,34894,590,0
+675,29,51987,Female,Master's,Married,5717,500,1
+676,26,35850,Female,Bachelor's,Married,16676,625,1
+677,27,32112,Male,Bachelor's,Married,9434,810,1
+678,61,141789,Male,Master's,Married,42825,708,0
+679,34,44058,Male,High School,Married,34100,807,0
+680,55,65420,Male,High School,Single,9994,371,1
+681,24,58890,Male,PhD,Divorced,9234,546,0
+682,63,86017,Male,High School,Married,8764,643,1
+683,30,67304,Male,PhD,Married,48949,353,0
+684,57,52921,Female,High School,Divorced,42405,827,1
+685,59,125921,Female,High School,Single,39872,831,1
+686,26,21524,Female,Bachelor's,Divorced,47215,492,1
+687,67,120424,Male,PhD,Divorced,28185,357,0
+688,44,35048,Male,High School,Married,48442,736,1
+689,19,55111,Male,PhD,Divorced,46153,410,1
+690,22,57904,Male,Bachelor's,Divorced,16999,428,1
+691,46,74912,Male,Bachelor's,Married,41487,625,1
+692,54,54008,Female,PhD,Married,7581,307,1
+693,55,20060,Female,Bachelor's,Married,7763,328,1
+694,36,94666,Male,Master's,Married,32374,411,1
+695,25,103559,Male,Master's,Divorced,43759,430,0
+696,65,75337,Male,Bachelor's,Divorced,15531,487,0
+697,62,130616,Male,Master's,Single,30307,774,0
+698,18,33350,Female,High School,Single,35835,663,1
+699,39,44354,Male,PhD,Divorced,16064,503,1
+700,69,65186,Male,High School,Single,16312,511,1
+701,34,48145,Male,PhD,Divorced,42548,575,0
+702,24,54020,Male,Bachelor's,Single,41945,372,0
+703,42,106123,Female,High School,Married,11476,542,1
+704,62,126667,Male,Bachelor's,Single,29565,401,1
+705,21,95186,Male,Bachelor's,Married,7382,470,0
+706,53,105469,Female,PhD,Married,27463,487,1
+707,23,40581,Female,PhD,Married,38402,740,0
+708,48,108929,Female,PhD,Married,31345,385,0
+709,36,43051,Male,High School,Single,49764,775,1
+710,61,71474,Male,Master's,Divorced,31946,351,0
+711,56,111748,Female,PhD,Married,19162,410,1
+712,44,145995,Female,PhD,Single,13397,342,0
+713,27,134618,Female,High School,Married,27335,510,0
+714,43,89626,Female,PhD,Single,19394,499,0
+715,36,26960,Female,High School,Single,32197,325,1
+716,56,55772,Female,Bachelor's,Single,27010,598,1
+717,20,41520,Male,PhD,Divorced,29123,376,1
+718,62,69481,Male,PhD,Single,27387,436,0
+719,30,56408,Male,Bachelor's,Single,7890,319,0
+720,67,114006,Female,Bachelor's,Divorced,32769,739,1
+721,45,148496,Female,Bachelor's,Divorced,48626,510,1
+722,37,77134,Female,PhD,Single,13026,734,1
+723,45,40491,Female,Master's,Divorced,8306,506,0
+724,25,21341,Female,Master's,Married,38665,738,1
+725,58,64623,Female,Master's,Married,14277,341,1
+726,56,110327,Male,PhD,Divorced,47239,710,0
+727,18,20338,Male,Bachelor's,Divorced,19683,822,1
+728,20,91431,Female,PhD,Single,5670,726,0
+729,30,32254,Male,Bachelor's,Divorced,28675,574,1
+730,45,71860,Female,PhD,Single,22889,747,1
+731,66,31344,Male,PhD,Married,49535,668,1
+732,42,21750,Female,Bachelor's,Divorced,18006,519,1
+733,50,74756,Female,Master's,Single,31531,531,0
+734,55,87957,Male,Bachelor's,Single,26639,627,1
+735,23,125423,Male,High School,Married,21633,742,0
+736,61,78053,Female,High School,Divorced,39660,351,0
+737,62,90855,Female,Bachelor's,Married,8439,675,1
+738,49,35896,Male,PhD,Single,37172,562,1
+739,62,75761,Male,High School,Single,40622,566,1
+740,64,82552,Female,High School,Divorced,16577,658,0
+741,38,140075,Male,PhD,Single,16763,616,1
+742,33,97454,Female,PhD,Divorced,25176,623,1
+743,38,146522,Female,Master's,Married,49386,720,0
+744,28,138681,Female,PhD,Divorced,29255,345,0
+745,54,110600,Female,Bachelor's,Divorced,46003,568,0
+746,53,142732,Male,Bachelor's,Single,24996,680,0
+747,52,132153,Male,Master's,Single,40386,417,1
+748,36,142926,Male,High School,Divorced,26062,415,1
+749,37,47935,Male,High School,Single,40931,559,1
+750,35,57641,Male,PhD,Single,40710,374,1
+751,64,49711,Male,Bachelor's,Single,39693,779,0
+752,58,90342,Male,High School,Divorced,40740,604,1
+753,66,126896,Female,Master's,Single,16705,306,1
+754,31,32182,Male,Master's,Divorced,48408,665,1
+755,32,107833,Male,Bachelor's,Single,33047,822,0
+756,48,76276,Female,Master's,Married,15966,647,1
+757,18,39541,Male,Master's,Single,22374,737,0
+758,20,114457,Male,Bachelor's,Single,16138,514,0
+759,33,102310,Female,PhD,Divorced,20935,728,1
+760,40,64813,Male,PhD,Divorced,5489,797,0
+761,28,57198,Male,Master's,Single,49516,839,1
+762,29,28820,Male,PhD,Married,27260,666,1
+763,27,44070,Female,PhD,Single,31069,612,1
+764,49,89768,Male,Master's,Single,24275,837,0
+765,33,31122,Male,PhD,Married,41284,353,0
+766,25,100559,Female,Master's,Divorced,44178,840,0
+767,55,93543,Male,High School,Single,37821,766,1
+768,29,103441,Female,Bachelor's,Divorced,21999,463,0
+769,41,61786,Female,Bachelor's,Divorced,43712,633,0
+770,45,114934,Male,PhD,Married,45172,846,0
+771,25,119804,Female,PhD,Married,38722,647,0
+772,45,26737,Female,PhD,Divorced,15625,572,1
+773,53,56062,Male,Bachelor's,Single,6629,713,1
+774,43,74237,Female,High School,Divorced,15973,799,0
+775,25,71571,Female,High School,Single,11859,392,1
+776,67,45510,Male,Bachelor's,Single,46609,378,1
+777,45,39426,Male,High School,Married,48307,516,1
+778,45,57265,Male,Bachelor's,Single,41046,657,1
+779,54,37850,Female,High School,Single,26839,806,1
+780,58,138249,Male,Master's,Divorced,32216,480,1
+781,53,86150,Female,Master's,Married,23945,545,0
+782,44,107312,Female,Bachelor's,Single,11539,543,1
+783,34,109613,Female,High School,Single,38625,805,1
+784,26,94910,Female,PhD,Married,9886,721,0
+785,50,72375,Female,High School,Divorced,12485,619,0
+786,37,141826,Female,Master's,Married,36455,386,1
+787,30,55435,Female,Master's,Married,21767,516,1
+788,45,116443,Male,High School,Single,33453,789,1
+789,65,77132,Male,High School,Single,15744,818,1
+790,46,98945,Female,PhD,Divorced,42102,577,1
+791,30,102050,Female,PhD,Single,17226,468,1
+792,63,149828,Male,High School,Single,32869,629,1
+793,52,115402,Female,High School,Married,27588,740,1
+794,23,22983,Male,High School,Single,18440,690,1
+795,35,117241,Male,High School,Divorced,36709,795,1
+796,68,40662,Male,Bachelor's,Married,27495,680,0
+797,22,43510,Female,High School,Divorced,42019,605,1
+798,64,98187,Female,PhD,Married,49948,812,1
+799,42,60998,Male,Master's,Single,5922,487,0
+800,19,76846,Male,Bachelor's,Married,32526,815,1
+801,27,114071,Male,High School,Married,12957,726,1
+802,47,26640,Male,Master's,Single,38998,801,0
+803,67,64547,Male,Bachelor's,Single,48395,559,1
+804,62,74620,Female,Master's,Divorced,29031,812,1
+805,22,35317,Male,High School,Divorced,15006,370,1
+806,50,135608,Female,High School,Single,42701,777,0
+807,18,27564,Male,PhD,Single,30939,477,1
+808,35,47345,Female,High School,Single,25324,756,1
+809,49,133824,Female,High School,Married,27867,488,0
+810,64,114223,Female,Bachelor's,Married,5203,590,1
+811,66,143372,Female,PhD,Married,21544,819,1
+812,28,99273,Female,Bachelor's,Single,20899,591,0
+813,38,94859,Female,Master's,Divorced,34063,582,1
+814,43,100765,Male,High School,Single,30344,843,1
+815,42,130017,Female,Master's,Married,8748,676,0
+816,39,94038,Male,Bachelor's,Married,44486,455,0
+817,44,143618,Female,High School,Single,6093,807,0
+818,66,72393,Female,High School,Single,20228,712,0
+819,30,86081,Male,Bachelor's,Married,25884,827,1
+820,50,145341,Female,Bachelor's,Married,30183,654,1
+821,51,122650,Male,Bachelor's,Married,21034,486,0
+822,58,49430,Male,Bachelor's,Single,10710,330,0
+823,52,95532,Male,Bachelor's,Married,47500,559,0
+824,18,47788,Male,High School,Married,24259,720,1
+825,38,115505,Female,Bachelor's,Divorced,40959,828,0
+826,65,68543,Female,High School,Single,38457,603,1
+827,23,33919,Male,High School,Divorced,25143,338,1
+828,45,89346,Female,Bachelor's,Divorced,7103,788,0
+829,34,116122,Female,Bachelor's,Married,5365,841,1
+830,22,59974,Male,PhD,Single,49535,577,1
+831,48,127309,Female,High School,Married,21103,502,1
+832,22,36371,Male,Bachelor's,Single,37510,365,1
+833,55,65084,Male,Bachelor's,Divorced,29476,407,0
+834,20,49629,Female,Bachelor's,Single,17742,567,0
+835,40,71184,Female,PhD,Married,17391,521,1
+836,54,81916,Female,PhD,Married,41940,829,0
+837,54,147293,Male,Master's,Married,33901,389,0
+838,27,93972,Male,High School,Single,37001,554,0
+839,27,82187,Female,Master's,Divorced,20623,754,0
+840,36,32984,Female,Bachelor's,Divorced,7378,552,1
+841,34,53039,Female,PhD,Single,26372,556,0
+842,38,105431,Female,PhD,Married,49799,682,1
+843,31,103691,Male,Master's,Divorced,43437,741,1
+844,26,78606,Female,PhD,Married,40503,389,1
+845,63,30616,Male,Bachelor's,Single,35746,689,0
+846,18,122665,Male,PhD,Married,32923,343,1
+847,68,125373,Female,Master's,Divorced,14867,318,0
+848,62,70072,Female,Bachelor's,Divorced,46258,400,1
+849,30,44574,Female,Master's,Married,38724,656,1
+850,21,23430,Male,PhD,Single,14306,841,1
+851,18,139123,Female,Master's,Married,44391,332,1
+852,66,32676,Female,Master's,Single,19908,528,1
+853,57,30816,Male,High School,Married,32081,823,0
+854,49,52733,Female,PhD,Divorced,42228,454,1
+855,51,105680,Male,PhD,Single,28386,722,1
+856,45,22050,Female,Master's,Single,33302,545,0
+857,48,129996,Male,High School,Single,24212,704,1
+858,25,53933,Female,PhD,Divorced,40618,840,1
+859,56,44951,Female,Bachelor's,Married,15698,460,1
+860,43,52413,Male,Master's,Divorced,9594,416,1
+861,51,54801,Male,PhD,Single,30525,570,1
+862,20,75619,Female,Bachelor's,Married,19282,786,0
+863,67,52913,Male,PhD,Divorced,19334,471,1
+864,29,132573,Male,Bachelor's,Single,34179,573,0
+865,18,139076,Male,Master's,Single,11644,558,1
+866,61,60600,Male,PhD,Divorced,40618,434,0
+867,22,77775,Female,PhD,Divorced,37933,721,0
+868,47,110816,Female,High School,Divorced,48469,720,1
+869,47,149972,Male,Master's,Single,38687,485,1
+870,34,110093,Male,Bachelor's,Divorced,46073,663,0
+871,65,132590,Male,PhD,Single,22375,677,1
+872,64,55400,Male,PhD,Divorced,35926,822,0
+873,40,24494,Female,Bachelor's,Single,41607,495,0
+874,32,100688,Female,Master's,Single,22642,397,1
+875,54,142744,Male,High School,Married,28993,321,1
+876,38,109431,Male,High School,Divorced,49386,749,0
+877,31,94691,Male,PhD,Divorced,26188,471,0
+878,19,117419,Female,Bachelor's,Single,37596,682,0
+879,28,128730,Male,PhD,Single,32772,433,0
+880,68,63001,Female,Bachelor's,Single,35857,725,1
+881,56,87364,Male,High School,Married,15776,324,1
+882,55,144988,Female,Master's,Married,37835,802,0
+883,51,65028,Male,Bachelor's,Single,14788,484,1
+884,55,127434,Female,High School,Divorced,10660,384,1
+885,67,117659,Male,PhD,Divorced,9478,443,0
+886,51,57573,Male,Bachelor's,Married,13210,711,1
+887,35,20806,Male,Master's,Married,15922,523,1
+888,47,144343,Female,PhD,Single,41289,519,0
+889,32,76638,Male,PhD,Divorced,38340,478,0
+890,44,148301,Female,High School,Single,44850,732,1
+891,68,146295,Female,Bachelor's,Married,43163,564,1
+892,51,126506,Male,PhD,Divorced,23642,728,0
+893,69,49757,Male,Master's,Divorced,16094,715,0
+894,55,54636,Male,Bachelor's,Married,27423,752,1
+895,50,100097,Female,Master's,Single,38418,496,1
+896,41,68280,Male,PhD,Single,10741,352,1
+897,32,44262,Female,Master's,Divorced,11838,779,1
+898,47,100435,Female,High School,Married,8262,742,0
+899,59,82211,Male,Master's,Divorced,9996,629,1
+900,68,74842,Male,Bachelor's,Married,49594,550,1
+901,34,148583,Male,Master's,Single,27164,422,1
+902,22,76979,Male,Master's,Married,40595,686,0
+903,46,134524,Male,High School,Single,35257,638,1
+904,21,101470,Male,Master's,Married,19211,647,1
+905,27,58197,Female,Master's,Divorced,35453,328,1
+906,34,61844,Female,PhD,Single,10232,334,1
+907,27,84754,Female,PhD,Divorced,7217,817,0
+908,34,121868,Male,Bachelor's,Divorced,29229,695,1
+909,37,54157,Female,PhD,Single,19232,593,1
+910,41,97129,Female,PhD,Single,30613,648,1
+911,22,60042,Female,PhD,Divorced,19026,446,1
+912,51,81665,Female,PhD,Divorced,33554,366,1
+913,23,135512,Female,High School,Divorced,35908,819,0
+914,19,136953,Male,PhD,Divorced,24610,421,1
+915,30,102856,Male,High School,Single,44605,639,0
+916,60,47376,Female,High School,Single,12031,474,0
+917,60,129049,Female,PhD,Divorced,30515,750,0
+918,65,75554,Female,Master's,Married,41484,435,1
+919,28,34199,Male,High School,Married,41182,315,1
+920,68,138533,Male,Master's,Single,5570,632,1
+921,64,101412,Female,Master's,Divorced,37254,494,1
+922,40,70948,Male,PhD,Divorced,24288,795,1
+923,33,93781,Male,Bachelor's,Single,18288,308,0
+924,48,92750,Female,PhD,Married,34877,633,1
+925,28,86262,Male,Bachelor's,Married,23889,632,0
+926,33,137424,Male,Bachelor's,Married,5917,626,0
+927,25,66600,Female,PhD,Single,15066,314,1
+928,21,96898,Male,PhD,Married,34504,525,0
+929,57,82483,Male,Bachelor's,Single,11982,724,0
+930,21,38297,Female,PhD,Single,44104,707,1
+931,42,50448,Male,Bachelor's,Divorced,23062,412,1
+932,20,46172,Male,Master's,Married,21999,727,1
+933,49,62874,Female,PhD,Single,14941,300,1
+934,20,27657,Female,Master's,Married,28470,565,1
+935,44,104386,Female,High School,Married,26133,790,1
+936,46,145617,Male,Master's,Divorced,49435,507,0
+937,49,45425,Female,Master's,Married,9529,668,1
+938,67,46685,Male,Bachelor's,Divorced,22519,605,1
+939,68,142000,Female,Master's,Single,17192,311,1
+940,36,132855,Male,PhD,Married,13566,644,1
+941,38,44578,Female,Bachelor's,Single,12226,764,0
+942,22,48831,Female,High School,Married,42930,793,0
+943,35,27906,Female,PhD,Single,26259,667,1
+944,45,81413,Female,High School,Married,39087,719,0
+945,59,74028,Male,Master's,Married,6141,470,1
+946,39,27287,Female,PhD,Married,9627,433,0
+947,38,53660,Female,PhD,Married,7690,726,1
+948,23,95758,Male,High School,Married,45091,324,1
+949,18,80504,Female,PhD,Married,8255,829,0
+950,22,79720,Male,PhD,Married,10213,489,0
+951,58,122979,Female,PhD,Married,41876,440,1
+952,29,54701,Female,Master's,Married,24404,614,1
+953,43,103300,Female,High School,Single,30380,743,1
+954,63,130177,Male,PhD,Divorced,30520,618,0
+955,51,37674,Female,Bachelor's,Married,24173,740,1
+956,66,103560,Female,Bachelor's,Divorced,28989,391,1
+957,31,131543,Female,Bachelor's,Married,47570,478,0
+958,43,43874,Male,Bachelor's,Married,29519,355,1
+959,62,63642,Male,Master's,Single,27439,454,0
+960,44,143867,Female,PhD,Single,16413,410,0
+961,26,117820,Male,High School,Divorced,19995,436,0
+962,43,85160,Female,PhD,Single,28559,531,0
+963,64,37602,Female,Master's,Single,28513,767,0
+964,39,123320,Female,Bachelor's,Divorced,10021,780,1
+965,64,108801,Female,Master's,Single,37464,367,0
+966,47,45931,Female,PhD,Married,26119,548,0
+967,60,114377,Female,High School,Divorced,34299,622,0
+968,65,49192,Female,Master's,Divorced,44350,817,1
+969,34,66542,Male,High School,Married,30517,731,1
+970,43,147015,Male,Master's,Single,18117,786,1
+971,53,62520,Male,High School,Divorced,27250,728,1
+972,18,84772,Male,High School,Divorced,23950,568,1
+973,25,78762,Male,Bachelor's,Married,22359,836,0
+974,66,70106,Male,High School,Married,28596,447,1
+975,52,101121,Male,Bachelor's,Single,30530,417,1
+976,69,45559,Female,PhD,Divorced,6262,666,1
+977,32,125595,Female,PhD,Single,45150,365,0
+978,64,53742,Female,Bachelor's,Single,27615,669,1
+979,39,89669,Female,Bachelor's,Married,8327,474,0
+980,31,100199,Male,Master's,Divorced,34768,794,1
+981,43,41754,Male,Master's,Divorced,33850,413,1
+982,45,23972,Female,Master's,Divorced,47788,410,0
+983,40,90831,Female,PhD,Married,21848,738,1
+984,31,132217,Male,Master's,Married,44542,446,0
+985,41,61873,Female,High School,Married,20160,334,1
+986,19,114661,Female,High School,Married,38998,608,1
+987,62,126532,Female,Master's,Married,32230,837,0
+988,43,146267,Female,High School,Divorced,14076,313,0
+989,31,29903,Male,PhD,Single,8805,673,1
+990,68,23020,Female,High School,Divorced,36085,727,0
+991,24,61755,Female,PhD,Single,19715,532,0
+992,20,105956,Male,Bachelor's,Married,10750,739,0
+993,64,106988,Male,Bachelor's,Single,18232,801,1
+994,40,65648,Female,Bachelor's,Divorced,40903,574,1
+995,63,123537,Male,Bachelor's,Divorced,11953,375,0
+996,60,145991,Female,High School,Single,37093,738,0
+997,64,29516,Female,Master's,Married,30500,588,0
+998,62,132863,Male,High School,Married,27418,839,0
+999,35,135005,Female,PhD,Divorced,39314,552,1
+1000,55,22396,Female,High School,Single,27449,425,1
